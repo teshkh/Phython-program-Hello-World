@@ -1,7 +1,9 @@
 About Python programming language:
+
 Python is a programming language that lets you work more quickly and integrate your systems more effectively. Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
 Some of the language features:
+
 Does not require you to declare variables, but requires you to initialize them
 Strong dynamic typing, requires explicit conversions
 Supports operator overload and multiple inheritance (something not found in Java)
